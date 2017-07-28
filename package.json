@@ -1,0 +1,19 @@
+{
+  "name": "distinct-red-ms",
+  "version": "0.0.1",
+  "description": "Request Header Parser Microservice",
+  "main": "serv.js",
+  "scripts": {
+    "start": "node serv.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT"
+}
